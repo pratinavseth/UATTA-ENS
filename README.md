@@ -24,3 +24,5 @@ a physician, including the diagnosis of Diabetic Retinopathy. However, commonly 
 
 
 This paper was accepted at the **Medical Imaging meets NeurIPS Workshop** at **NeurIPS 2022**. <br>
+
+Link to pre-trained checkpoints - https://learnermanipal-my.sharepoint.com/:u:/g/personal/pratinav_seth_learner_manipal_edu/ESBb5eoIFB5OjBTQInlEohoBX7J3DRej9lHDiw7DL945Eg?e=lfBCEg 
